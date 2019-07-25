@@ -1,0 +1,9 @@
+# For more info see https://help.github.com/articles/about-codeowners
+# This file will automatically add members to PRs
+# includes JIRA team name comment for automated scanners
+# Order is important; the last matching pattern takes the most precedence.
+# for member list  see https://github.com/orgs/QuickBase/teams/workflow-automation/members
+
+# Automations Team owners
+#%BA
+*       @QuickBase/workflow-automation
